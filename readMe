@@ -1,0 +1,4 @@
+First, create a new React project using Create React App:
+npx create-react-app user-management-app
+cd user-management-app
+npm install axios react-router-dom
